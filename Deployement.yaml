@@ -17,7 +17,7 @@ spec:
           image: chaimask/Cluster:2
           env:
             - name: SPRING_DATASOURCE_URL
-              value: jdbc:mysql://mysql-service:3306/springPI?useSSL=false
+              value: jdbc:mysql://mysql-service:3306/springPFE?useSSL=false
             - name: SPRING_DATASOURCE_USERNAME
               value: root
             - name: SPRING_DATASOURCE_PASSWORD
