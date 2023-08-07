@@ -21,4 +21,4 @@ spec:
             - name: MYSQL_ALLOW_EMPTY_PASSWORD
               value: "yes"
             - name: MYSQL_DATABASE
-              value: "springPI"
+              value: "springPFE"
